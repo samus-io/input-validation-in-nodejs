@@ -15,7 +15,7 @@
 
 * Create a private fork of this repository. Share it only to the Github users [Ferran][3] and [Lluís][4].
 * Add content to your new private repository in order to finish this contribution on Input Validation.
-* Once you consider that all content was added, reply back to the email you received from us so we can proceed to evaluate your fantastic work done. Afterwards, we will contact you.
+* Once you consider that all content was added, **reply back to the email you received from us** so we can proceed to evaluate your fantastic work done. Afterwards, we will contact you.
 
 ## How should this contribution be finished/completed?
 
