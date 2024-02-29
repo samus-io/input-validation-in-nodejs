@@ -35,7 +35,7 @@
 ## Will you be financially compensated for this contribution?
 
 * Sorry, this contribution will only be used to evaluate your skills, since it will be also implemented by a few other selected candidates.
-* However, if we like your work, we will use this contribution to negotiate with you the financial reward from now on for future contributions. We promise a generous reward if the content is brilliant.
+* However, if we like your work, we will use this contribution to negotiate with you the financial reward from now on for future contributions (from $40 to $70).
 * Please note that in future contributions all code, as the simple Express web application in this case, will have to be implemented by yourself.
 
 ## Important considerations
